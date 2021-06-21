@@ -1,0 +1,71 @@
+{
+    "hasAlreadyStarted": true,
+    "characters": [
+        {
+            "charactername": "Gui the anthropomorphic latios",
+            "mapx": 0,
+            "mapy": 0,
+            "x": 5,
+            "y": 3,
+            "image": "https://cdn.discordapp.com/attachments/747486528107708589/795225998257946644/IMG_20201219_101939.jpg",
+            "description": "ok je prends en note",
+            "currentHealth": 9,
+            "stats": {
+                "level": 6,
+                "xp": 4413,
+                "statPoints": 8,
+                "strength": 3,
+                "defense": 1,
+                "speed": 2,
+                "maxHealth": 13,
+                "deaths": 14,
+                "money": 6209,
+                "xpBoost2": 1
+            },
+            "lastUsed": {
+                "hunt": 1609439675937,
+                "heal": 1608389862658,
+                "move": 1609503605065
+            },
+            "lastVoted": 1605635821971,
+            "xpBoost": 1,
+            "inventory": [
+                "GlitchedBadge",
+                "dungeon1",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "GlitchedBadge",
+                "boost2"
+            ],
+            "xpboost": 2,
+            "xpBoost2": 1
+        }
+    ],
+    "language": "french",
+    "achievements": [
+        "veteran",
+        "numberOne",
+        "bugReport",
+        "bugReportALot",
+        "justStarted",
+        "spaghet",
+        "level5"
+    ]
+}

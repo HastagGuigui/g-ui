@@ -1,0 +1,40 @@
+{
+    "illGetAUhhhhhh":[
+        {
+            "version": "2.0.1",
+            "id": "2.01",
+            "english": {
+                "title": "ˢᵐᵃˡˡ ᵘᵖᵈᵃᵗᵉ",
+                "stuff": "So here's what's being added/fixed: \n- You can now view other maps with g/map [mapX;mapY]. \n- You can also see other people's character with g/character <mention>. \n- Fixed several undefined and still fixing. \n-h"
+            },
+            "french": {
+                "title": "ᵖᵗᶦᵗᵉ ᵐᶦˢᵉ ᵃ ʲᵒᵘʳ",
+                "stuff": "Voilà ce qui a été ajouté/fini: \n- Vous pouvez voir d'autres maps avec g/map [mapX;mapY] \n- Vous pouvez aussi voir les autres personnages des autres joueurs avec g/character <mention>. \n J'ai aussi corrigé 2-3 \"undefined\" et j'en corrige encore. \n-h"
+            }
+        },
+        {
+            "version": "2.0.0",
+            "id": "2",
+            "english": {
+                "title": "2.0 IS OUT BABYYYYYY",
+                "stuff": "yay \n- lot of rpg features such as\n--a map \n--farming or smth \n--leveling up \n--currency \n--shop \n--what \n-i mean also lots of easy bugfixes"
+            },
+            "french": {
+                "title": "2.0 EST DISPONIBLE BABYYYYYY",
+                "stuff": "ouais \n-des tonnes de features rpg comme \n--une carte \n--du farm ou jsp\n--système de levels\n--monnaie \n--boutique \n--q u o i \n-ah aussi beaucoup de bugs corrigés mais on s'en"
+            }
+        },
+        {
+            "version": "placeholder",
+            "id": "-1",
+            "english": {
+                "title": "Title placeholder",
+                "stuff": "Stuff placeholder"
+            },
+            "french": {
+                "title": "Titre de remplacement",
+                "stuff": "Description de remplacement"
+            }
+        }
+    ]
+}

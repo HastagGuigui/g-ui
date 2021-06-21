@@ -1,0 +1,59 @@
+{
+    "hasAlreadyStarted": true,
+    "language": "english",
+    "characters" : [
+        {
+            "charactername": "username",
+            "mapx": 0,
+            "mapy": 0,
+            "x": 7,
+            "y": 5,
+            "image": "image link",
+            "description": "[redacted]",
+            "currentHealth": 5,
+            "stats": {
+                "level": 1,
+                "xp": 0,
+                "statPoints": 0,
+                "strength": 0,
+                "defense": 0,
+                "speed": 0,
+                "maxHealth": 5,
+                "money": 0
+            },
+            "lastUsed": {
+
+            },
+            "inventory":[
+
+            ],
+            "armor":{
+                "head":{
+                    "name":"",
+                    "protection":0
+                },
+                "chest":{
+                    "name":"",
+                    "protection":0
+                },
+                "legs":{
+                    "name":"",
+                    "protection":0
+                },
+                "feet":{
+                    "name":"",
+                    "protection":0
+                },
+                "arms":{
+                    "name":"",
+                    "protection":0
+                },
+                "weapon":{
+                    "name":"",
+                    "damage":0
+                },
+                "powerbadges":[]
+            }
+        }
+    ]
+}

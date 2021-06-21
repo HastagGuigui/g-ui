@@ -1,0 +1,203 @@
+{
+    "map":[
+        {
+            "id":{
+                "x":0,
+                "y":0
+            },
+            "title":"The starter's zone",
+            "size":{
+                "x":16,
+                "y":8
+            },
+            "emojisUsed":[
+                "🟧",
+                "⬛",
+                "🚪",
+                "🟩"
+            ],
+            "collisions":[
+                "a"
+            ],
+            "data":[
+                "a a a a b b b b b a a a a a a a ",
+                "a a a a b b b b b a a a a a a a ",
+                "a a c a b b b b b a a a a a a a ",
+                "b b b b b b b b b a a c a a a a ",
+                "b b b b b b b b b b b b b b b b ",
+                "b b b b b b b b b b b b b b b b ",
+                "a a a a a a a d d d d a a a a a ",
+                "a a a a a a a d d d d a a a a a "
+            ],
+            "objs":[
+                {
+                    "type": "secretWay",
+                    "specialOptions": [0, [0,1], [0,0]],
+                    "pos":[0, 0],
+                    "displayTile": "⬆"
+                }
+            ]
+        },
+        {
+            "id":{
+                "x":0,
+                "y":1
+            },
+            "title":"South quarters",
+            "size":{
+                "x":16,
+                "y":8
+            },
+            "emojisUsed":[
+                "🟧",
+                "⬛",
+                "🚪",
+                "🟩"
+            ],
+            "collisions":[
+                "a"
+            ],
+            "data":[
+                "a a a a a a a d d d d a a a a a ",
+                "a a a a a a a d d d d a a a c a ",
+                "a a a a c a a d d d d d d d d a ",
+                "a d d d d d d d d d a a a a a a ",
+                "a b b b b b b d d d a a a a a a ",
+                "a b b b b b b d d d a a a a a a ",
+                "a b b b b b b d d d a a a a a a ",
+                "a a a a a a a a a a a a a a a a "
+            ],
+            "objs":[
+                {
+                    "type": "secretWay",
+                    "specialOptions": [0, [0,1], [0,0]],
+                    "pos":[0, 0],
+                    "displayTile": "⬆"
+                }
+            ]
+        },
+        {
+            "id":{
+                "x":0,
+                "y":-1
+            },
+            "title":"North area of the starting zone",
+            "size":{
+                "x":16,
+                "y":8
+            },
+            "emojisUsed":[
+                "🟧",
+                "⬛",
+                "🚪",
+                "🟩"
+            ],
+            "collisions":[
+                "a"
+            ],
+            "data":[
+                "a a a a a a a a a a a a a a a a ",
+                "a b b b b b b b b b b b b b b a ",
+                "a b b d d d d d d d b b b b b a ",
+                "a b b d d d d d d d b b b b b a ",
+                "a b b d d d d d d d b a a a a a ",
+                "a b b b b b b b b b b a a a a a ",
+                "a a a a b b b b b a a a a a a a ",
+                "a a a a b b b b b a a a a a a a "
+            ],
+            "objs":[
+                {
+                    "type": "secretWay",
+                    "specialOptions": [0, [0,1], [0,0]],
+                    "pos":[0, 0],
+                    "displayTile": "⬆"
+                }
+            ]
+        },
+        {
+            "id":{
+                "x":1,
+                "y":0
+            },
+            "title":"East garden",
+            "size":{
+                "x":16,
+                "y":8
+            },
+            "emojisUsed":[
+                "🟧",
+                "⬛",
+                "🚪",
+                "🟩"
+            ],
+            "collisions":[
+                "a"
+            ],
+            "data":[
+                "a a a a a a a a a a a a a a a a ",
+                "a a a a a a a a a a d d d d d a ",
+                "a a a a a a a a a a d d d d d a ",
+                "a a a a a a a a a a d d d d d a ",
+                "b b b b b b b b b b d d d d d a ",
+                "b b b b b b b b b b d d d d d a ",
+                "a b b b b b b b b b d d d d d a ",
+                "a a a a a a a a a a a a a a a a "
+            ],
+            "objs":[
+                {
+                    "type": "secretWay",
+                    "specialOptions": [0, [0,1], [0,0]],
+                    "pos":[0, 0],
+                    "displayTile": "⬆"
+                }
+            ]
+        },
+        {
+            "id":{
+                "x":-1,
+                "y":0
+            },
+            "title":"East house",
+            "size":{
+                "x":16,
+                "y":8
+            },
+            "emojisUsed":[
+                "🟧",
+                "⬛",
+                "🚪",
+                "🟩"
+            ],
+            "collisions":[
+                "a"
+            ],
+            "data":[
+                "a a a a a a a a a a a a a a a a ",
+                "a b b b b b b b b b b a a a a a ",
+                "a a a a a b b b b b b a a a a a ",
+                "a a a a a b b b b b b b b b b b ",
+                "a a c a a b b b b b b b b b b b ",
+                "a b b b b b b b b b b b b b b b ",
+                "a b b b b b b b b b b b b a a a ",
+                "a a a a a a a a a a a a a a a a "
+            ],
+            "objs":[
+                {
+                    "type": "secretWay",
+                    "specialOptions": [0, [0,1], [0,0]],
+                    "pos":[0, 0],
+                    "displayTile": "⬆"
+                }
+            ]
+        }
+    ],
+    "playerPositions":[
+        {
+            "id":"defaut",
+            "X":7,
+            "Y":5,
+            "mapX":0,
+            "mapY":0
+        }
+    ]
+}

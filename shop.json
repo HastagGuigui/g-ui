@@ -1,0 +1,22 @@
+{
+    "Main":[
+        {
+            "FRname": "Boost d'expérience x2",
+            "ENname": "Experience boost x2",
+            "value": 2000,
+            "FRdescription": "Double l'expérience que vous obtenez pour 24h.",
+            "ENdescription": "Double the experience gained for 24h.",
+            "CodeName": "boost2",
+            "levelRequired": -1
+        },
+        {
+            "FRname": "Clé de donjon niveau basique",
+            "ENname": "Basic dungeon key",
+            "value": 1000,
+            "FRdescription": "Pour pouvoir ouvrir un donjon assez basique et obtenir des améliorations cools",
+            "ENdescription": "Use it to open a dungeon pretty basic and get cool ameliorations.",
+            "CodeName": "dungeon1",
+            "levelRequired": 2
+        }
+    ]
+}

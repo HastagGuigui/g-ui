@@ -1,0 +1,309 @@
+[
+    {
+        "start": [
+            "Hey?",
+            "Can you hear me?",
+            "Uh, afterall it doesn't matter...",
+            "Hum... My name is G-UI. I am a... Protogen? It's the correct name I think...",
+            "And, hum, you typed ",
+            "start? That's... Great! That means I can explain you what is G-UI-V2.",
+            "So this bot is a... RPG? I don't know, it's the first time that I installed this module...",
+            "Uh, Well, what should I call you...",
+            "I guess ",
+            ", because that's your username. You can edit it at any times in the ",
+            "editchara.",
+            "So, hum, here's your map... *hands you the ",
+            "map* and your character *hands you the ",
+            "character*. Good luck?"
+        ],
+        "move": {
+            "ded": "You... You're supposed to be dead, use &&heal to then be able to use this command!",
+            "cooldown": "Whoa! Slow down dude!",
+            "syntax": "Error: \nSyntax: &&move (up/down/left/right/u/d/l/r)",
+            "wall": "You can't move into a wall..."
+        },
+        "character": {
+            "title": "&&'s profile card",
+            "creator": "Creator:",
+            "level": "Level",
+            "achievements": "Achievements",
+            "death": [
+                "death",
+                "deaths"
+            ],
+            "modify": "Modify the character using &&editchara 0 <name/description/image>!",
+            "stats": {
+                "title": "Stats",
+                "strength": "Strength",
+                "defense": "Defense",
+                "speed": "Speed"
+            }
+        },
+        "roll": {
+            "syntax": "Syntax: &&roll <number of sides of the dice>",
+            "rolled": "rolled a",
+            "twenty": "Now that's where things gets interesting."
+        },
+        "editchara": {
+            "syntax": "Syntax: &&editchara <characterID> (name|description|image) <value>",
+            "notReal": "This character does not exist.",
+            "name": "Your character will now be called **",
+            "description": "The description of your character has been set to **",
+            "image": "The image used for displaying your character is now the one below. Please make sure it's a full-body of your character and there's no real background. \n",
+            "notValidParameter": "The parameter \"**&&**\" does not exist."
+        },
+        "hunt": {
+            "customReplies":[
+                "that's a lot of damage",
+                "Nice job!",
+                "Don't forget to heal when you're low!",
+                "damn that should have hurt",
+                "What is this?"
+            ],
+            "footer": {
+                "noVote": "Don't forget to vote!",
+                "vote": "Current active boost : "
+            },
+            "result": {
+                "earned": [
+                    "Earned ",
+                    " and lost ",
+                    "hp.",
+                    "xp, "
+                ],
+                "levelUp": "**LEVEL UP!** \n You're now level ",
+                "ded": "You died... Use &&heal to revive."
+            }
+        },
+        "bugreport":{
+            "noReport": "Error: Report cannot be null or undefined.",
+            "thanks": "Thanks for reporting, ",
+            "report": "Your report:",
+            "ID":"Report ID: "
+        },
+        "vote":{
+            "reward": "Nice, you voted for me! I guess I must reward you with something... Here's an XP boost, it only lasts 12h.",
+            "noReward": "You haven't voted for now...",
+            "link": "Vote link:",
+            "click": "Click here"
+        },
+        "leaderboard":{
+            "title": "The bests of the best, I suppose.",
+            "characters": "characters registered.",
+            "level": "Level",
+            "xp": "XP:"
+        },
+        "help":{
+            "title": "Help menu",
+            "categories": [
+                "Basic commands",
+                "RPG-related stuff",
+                "Miscellaneous commands",
+                "Everything map-related"
+            ]
+        },
+        "shop":{
+            "shopName":"G-UI's non-suspicious shop",
+            "MoneyDisplay":[
+                "You currently have ",
+                "฿."
+            ],
+            "footer": "How may I help you? | Buy with g/buyitem [ID] <quantity>"
+        },
+        "buyitem":{
+            "noArgs":"Sorry, what do you want? (Syntax: g/buy [item ID] <quantity>)",
+            "undefinedItem":"I don't have this item, are you sure it's written correctly?"
+        },
+        "modifymap":{
+            "tile":{
+                "missingArgs": "Not enough arguments. See g/modifymap help to get the syntax.",
+                "success": {
+                    "title": "Succesfully changed tile",
+                    "tile": "Tile ",
+                    "map": " in map ",
+                    "changedTo": " has been set to ",
+                    "succeded": " with success!"
+                }
+            },
+            "palette":{
+                "success": "Palette changed!",
+                "edit":{
+                    "doesntExist": "Nope, I can't edit something that doesn't exist!",
+                    "success": {
+                        "tile": "The palette's tile ",
+                        "changedFrom": " has been changed from ",
+                        "changedTo": " to ",
+                        "succeded": " without any problems!"
+                    }
+                },
+                "add": {
+                    "tooMuchEmojis": "Too much emojis in the palette... Remove some, please.",
+                    "success": {
+                        "succeded": "Succesfully added ",
+                        "at": " at the ID **",
+                        "in": "** in the ",
+                        "palette": " emoji palette!"
+                    }
+                }
+            }
+        },
+        "ping":{
+            "randomMessages":[
+                "*beatboxing*",
+                "Pong!",
+                "This reminds me of a music from someone called \"Exyl\" or something",
+                "*beep boop*",
+                "Pings are annoying. -#Guigui",
+                "If it's high, it's problematic.",
+                "I'm doing this for free, in case you're wondering.",
+                "[insert random characters]"
+            ],
+            "ping":"The bot's latency is ",
+            "APIping":"The API's latency is "
+        },
+        "achievements":{
+            "newAchievement": "You got a new achievement!",
+            "ach_name": "Achievement:",
+            "hisAchievements": "&&'s achievements.",
+            "noAchievements": "This user doesn't have any achievements yet. F in the chat."
+        },
+        "notStarted":"You haven't started! Start with &&start.",
+        "id": "en",
+        "missingData": "Some data was missing and has been added to your character. Don't worry, everything's fine now. If you want to know what changed, type g/patchnote"
+    },
+    {
+        "start": [
+            "Bonjour?",
+            "Tu m'entends?",
+            "Bon, après ça n'a pas d'importante.",
+            "Euh... Mon nom est G-UI. Je suis un... Protogen? Je crois que c'est le nom correct je crois.",
+            "Et, heu, tu as tapé ",
+            "start? C'est... Génial! Donc je peux t'expliquer ce qu'est G-UI-V2.",
+            "Donc c'est un... RPG? Je sais pas, c'est la première fois que j'ai installé ce module...",
+            "Donc... Comment pourrais-je t'appeller...",
+            "Je pense ",
+            ", car c'est ton nom d'utilisateur. Tu peux le modifier dans le ",
+            "editchara.",
+            "Donc, voici la carte... *te donne le ",
+            "map* et ton personnage *te passe le ",
+            "character*. A plus?"
+        ],
+        "move": {
+            "ded": "Vous... êtes mort. Utilisez &&heal pour pouvoir après réutiliser cette commande.",
+            "cooldown": "Hey! Calmos mec!",
+            "syntax": "Erreur: \n Syntaxe: &&move (up/down/left/right/u/d/l/r)",
+            "wall": "Non, vous ne pouvez pas rentrer dans les murs!"
+        },
+        "character": {
+            "title": "Carte de profil de &&",
+            "creator": "Créateur:",
+            "level": "Niveau",
+            "achievements": "Succès",
+            "death": [
+                "mort",
+                "morts"
+            ],
+            "modify": "Modifiez votre personnage en utilisant &&editchara 0 <name/description/image>!",
+            "stats": {
+                "title": "Stats:",
+                "strength": "Force:",
+                "defense": "Défense:",
+                "speed": "Vitesse:"
+            }
+        },
+        "roll": {
+            "syntax": "Syntaxe: &&roll <nombre de faces du dé>",
+            "rolled": "a roulé un",
+            "twenty": "Sah quel plaisir."
+        },
+        "editchara": {
+            "syntax": "Syntaxe: &&editchara <IDduPerso> (name|description|image) <valeur>",
+            "notReal": "Ce personnage n'existe pas",
+            "name": "Votre personnage s'appellera **",
+            "description": "La description de votre perso est maintenant **",
+            "image": "L'image représentant votre personnage est maintenant celle-ci. Vérifiez que ce soit une photo en fullbody, et qu'il n'y ait pas de vrai arrière-plan. \n",
+            "notValidParameter": "Le paramètre \"**&&**\" n'existe pas."
+        },
+        "hunt": {
+            "customReplies":[
+                "ça fait bcp de dégats",
+                "Beau travail!",
+                "N'oubliez pas de vous soigner quand vous n'avez plus beaucoup de vie!",
+                "ça à du faire mal",
+                "Qu'est-ce que c'est?"
+            ],
+            "footer": {
+                "noVote": "N'oubliez pas de voter!",
+                "vote": "Boost actif : "
+            },
+            "result": {
+                "earned": [
+                    "Obtenu ",
+                    " et perdu ",
+                    "HP.",
+                    "points d'expérience, "
+                ],
+                "levelUp": "**NIVEAU SUPPLÉMENTAIRE!** \n Vous êtes maintenant niveau ",
+                "ded": "Vous êtes mort... Tapez &&heal pour revenir à la vie."
+            }
+        },
+        "bugreport":{
+            "noReport": "Erreur, Rapport ne peut pas être nul ou indéfini.",
+            "thanks": "Merci pour votre rapport, ",
+            "report": "Votre rapport:",
+            "ID":"ID de rapport: "
+        },
+        "vote":{
+            "reward": "Cool, t'as voté pour moi, en récompense, voici un boost d'expérience (et d'autres trucs) pendant 12h!",
+            "noReward": "Tu n'as pas voté pour le moment...",
+            "link": "Lien pour voter:",
+            "click": "Cliquez ici"
+        },
+        "leaderboard":{
+            "title": "La crème de la crème, 'fin je crois",
+            "characters": "personnages enregistrés",
+            "level": "Niveau",
+            "xp": "Expérience:"
+        },
+        "ping":{
+            "randomMessages":[
+                "*fait du beatbox*",
+                "Pong!",
+                "Cela me rapelle une musique faite par \"Exyl\" ou quelqu'un dans le genre",
+                "*beep boop*",
+                "Les pings sont relou. -#Guigui",
+                "Si c'est élevé, c'est problématique.",
+                "Je ne suis pas rénuméré, si vous vous demandez.",
+                "[insérer caractères aléatoires]"
+            ],
+            "ping":"The bot's latency is ",
+            "APIping":"The API's latency is "
+        },
+        "help":{
+            "title": "Menu d'aide",
+            "categories": [
+                "Commandes basiques",
+                "Tout ce qui a un rapport avec le RPG",
+                "Les commandes diverses",
+                "Tout ce qui va avec la carte"
+            ]
+        },
+        "shop":{
+            "shopName":"Le shop pas-du-tout-suspicieux de G-UI",
+            "MoneyDisplay":[
+                "Vous avez en votre possesion ",
+                "฿."
+            ],
+            "footer": "Comment je peux t'aider? | Achetez avec g/buyitem [ID] <quantité>"
+        },
+        "achievements":{
+            "newAchievement": "Vous avez obtenu un nouveau succès!",
+            "ach_name": "Le nouveau succès:",
+            "hisAchievements": "Les succès de &&.",
+            "noAchievements": "Cet utilisateur de possède pas de succès pour le moment. F dans le chat."
+        },
+        "notStarted":"Vous n'avez pas commencé! Commencez l'aventure avec &&start.",
+        "id":"fr",
+        "missingData": "Des données étaient manquantes et ont été ajoutés. Ne t'inquiète pas, tout va bien maintenant. Si tu veux savoir ce qui a changé, va voir le g/patchnote"
+    }
+]

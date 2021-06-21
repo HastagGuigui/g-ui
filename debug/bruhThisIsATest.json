@@ -1,0 +1,184 @@
+[
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "L9oe753",
+        "ReportMessage": "the cooldown can be bypassed by spamming the command"
+    },
+    {
+        "user": "589172591592210460",
+        "username": "Nyeh heh heh#9999",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "11IHRY0",
+        "ReportMessage": "On peut forcer le g/heal et couper le cooldown"
+    },
+    {
+        "user": "448560475987509268",
+        "username": "_Guigui [YT]#2933",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "TQO5tXc",
+        "ReportMessage": "map palette not actualising when changing areas"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "faOHmzW",
+        "ReportMessage": "Different areas does not load. And character can walk out of bounds"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "dkyEUVx",
+        "ReportMessage": "Some of the data from g/leaderboard page 3 to 4 is undefined"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "0yLpEmI",
+        "ReportMessage": "The death count in g/character says \"1 deaths\" instead of \"1 death\""
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "qjS2kTj",
+        "ReportMessage": "Text is exceeding the description border in g/character"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "z28dZJB",
+        "ReportMessage": "the text in g/achievement is glitching out"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "nUJmHbC",
+        "ReportMessage": "it gives a warning about the wall, before actually going into the wall"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "llrq9tA",
+        "ReportMessage": "First time using g/move up, it does not move up."
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "h0H6hUP",
+        "ReportMessage": "Found undefined stats and level data starting from page 4 on the leaderboard."
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "q83S35r",
+        "ReportMessage": "Stats on g/leaderboard does not get translated. And missing people from the leaderboard"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "bM3pv69",
+        "ReportMessage": "Actually, g/links is not translated as well on g/help. I'm a little blind lol"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "R3N4o2U",
+        "ReportMessage": "When language is set to French, g/modifymap says undefined on g/help. And, g/heal and g/bugreport is not translated"
+    },
+    {
+        "user": "261163815742210050",
+        "username": "EmilyTheLugia#4343",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "DDNiysk",
+        "ReportMessage": "You cannot buy items in the store. The buy command does nothing."
+    },
+    {
+        "user": "589172591592210460",
+        "username": "Dimi..#0666",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "CcL54cq",
+        "ReportMessage": "g/buyitem Inutilisable"
+    },
+    {
+        "user": "589172591592210460",
+        "username": "Dimi..#0666",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "0tbRslZ",
+        "ReportMessage": "On peut se heal en spammant alors qu'on esg en cooldown"
+    },
+    {
+        "user": "589172591592210460",
+        "username": "Dimi..#0666",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "Ugbg9a5",
+        "ReportMessage": "Xp pas logique : Tu peux gagner 1 xp comme 100 ."
+    },
+    {
+        "user": "589172591592210460",
+        "username": "Dimi..#0666",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "Xrb8kqm",
+        "ReportMessage": "+ Fausse mqp quand on fait la commande g/movr"
+    },
+    {
+        "user": "589172591592210460",
+        "username": "Dimi..#0666",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "nomx8D6",
+        "ReportMessage": "```le _ _ permet de mettre rien au nom du perso pour le g/editchara```"
+    },
+    {
+        "user": "589172591592210460",
+        "username": "Dimi..#0666",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportMessage": "Envoie le mess quand il y a une update du perso ou des stats en fesant juste le help"
+    },
+    {
+        "user": "589172591592210460",
+        "username": "Dimi..#0666",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportMessage": "Ne fait pas de spaghettis bolognaise. :-:"
+    },
+    {
+        "user": "448560475987509268",
+        "username": "_Guigui [YT]#2933",
+        "server": "744310454519726160",
+        "serverName": "La commu de #Guigui version²",
+        "ReportId": "7HOe2td",
+        "ReportMessage": "Alors voilà donc le problème est que quand je fais g/shop, le shop indique que j'ai \"undefined\" d'argent"
+    }
+]

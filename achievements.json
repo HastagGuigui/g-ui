@@ -1,0 +1,74 @@
+[
+    {
+        "id": "bugReportALot",
+        "ENname": "Please, let me sleep...",
+        "ENdescription": "Find and report too many bugs",
+        "FRname":"Je t'en prie, laisse moi dormir...",
+        "FRdescription":"Trouver et rapporter trop de bugs confirmés",
+        "image": "👨‍💻",
+        "tier": "gold"
+    },
+    {
+        "id": "veteran",
+        "ENname": "\"Beta-testers\"",
+        "ENdescription": "Only given to those that have started using G-UI before the apparition of achievements and greatly helped",
+        "FRname": "\"Béta-testeurs\"",
+        "FRdescription": "Donné seulement à ceux qui ont utilisé G-UI avant l'apparition des succès et qui ont grandement aidé.",
+        "image": "🎀",
+        "tier": "silver"
+    },
+    {
+        "id": "bugReport",
+        "ENname": "Gui! You got stuff to fix!",
+        "ENdescription": "Find and report a bug, that later gets confirmed.",
+        "FRname": "Gui! T'as des trucs à fixer!",
+        "FRdescription": "Trouver et rapporter un bug, qui a été confirmé.",
+        "image": "⌨",
+        "tier": "silver"
+    },
+    {
+        "id": "numberOne",
+        "ENname": "Ranked #1",
+        "ENdescription": "Arrive at rank #1 on the global leaderboard at least once (very hard)",
+        "FRname": "Positionné #1",
+        "FRdescription": "Arriver sur le #1 du classement global au moins une fois. (très dur)",
+        "image": "🥇",
+        "tier": "gold"
+    },
+    {
+        "id": "justStarted",
+        "ENname": "Welcome to G-UI's world!",
+        "ENdescription": "This is just here to tell you that you did the g/start thingy",
+        "FRname": "Bienvenue dans le monde de G-UI!",
+        "FRdescription": "C'est juste là pour dire que vous avez fait le truc du g/start",
+        "image": "🏞",
+        "tier": "regular"
+    },
+    {
+        "id": "level5",
+        "ENname": "Level 5!",
+        "ENdescription": "You just reached level 5, yeah!",
+        "FRname": "Niveau 5!",
+        "FRdescription": "T'as atteint le niveau 5, ouais!",
+        "image": "5️⃣",
+        "tier": "bronze"
+    },
+    {
+        "id": "spaghet",
+        "ENname": "I hope she made lots of spaghetti!",
+        "ENdescription": "Luigi, look!",
+        "FRname": "J'espère qu'elle a fait plein de spaghettis!",
+        "FRdescription": "Luigi, regarde!",
+        "image": "🍝",
+        "tier": "silver"
+    },
+    {
+        "id":"leEpic",
+        "ENname": "Very Important Guy",
+        "ENdescription": "This means your username is on the g/credits.",
+        "FRname": "Personne Très Importante",
+        "FRdescription": "C'est juste pour dire que votre nom d'utilisateur est sur le g/credits.",
+        "image": "💎",
+        "tier": "gold"
+    }
+]

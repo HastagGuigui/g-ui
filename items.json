@@ -1,0 +1,48 @@
+{
+    "Items":[
+        {
+            "ID":"placeholder",
+            "FRname":"placeholder [FR]",
+            "ENname":"placeholder [EN]",
+            "FRdesc":"placeholderDesc [FR]",
+            "ENdesc":"placeholderDesc [EN]",
+            "emoji":"🤡",
+            "ObjectImportance":-1
+        },
+        {
+            "ID":"GlitchedBadge",
+            "FRname":"Badge bugué",
+            "ENname":"Glitched badge",
+            "FRdesc":"whoops- vous n'êtes pas censé voir ça",
+            "ENdesc":"whoop- you're not supposed to see this",
+            "emoji":"🖥",
+            "ObjectImportance":5
+        },
+        {
+            "FRname": "Boost d'expérience x2",
+            "ENname": "Experience boost x2",
+            "FRdesc": "Double l'expérience que vous obtenez pour 24h.",
+            "ENdesc": "Double the experience gained for 24h.",
+            "ID": "boost2",
+            "emoji":"💨",
+            "ObjectImportance":2
+        },
+        {
+            "FRname": "Clé de donjon niveau basique",
+            "ENname": "Basic dungeon key",
+            "FRdesc": "Pour pouvoir ouvrir un donjon assez basique et obtenir des améliorations cools",
+            "ENdesc": "Use it to open a dungeon pretty basic and get cool ameliorations.",
+            "ID": "dungeon1",
+            "ObjectImportance":4
+        },
+        {
+            "FRname": "Set d'armure en fer",
+            "ENname": "Iron armor set",
+            "FRdesc": "[laissé vide car il est 23h52]",
+            "ENdesc": "[left empty cause it's 23h52]",
+            "ID": "ironArmor",
+            "emoji": "🤡",
+            "ObjectImportance":8
+        }
+    ]
+}

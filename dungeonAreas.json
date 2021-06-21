@@ -1,0 +1,172 @@
+[
+    {
+        "dungeonTier":1,
+        "floor":0,
+        "title":"Small dungeon - floor 1",
+        "size":{
+            "x":16,
+            "y":8
+        },
+        "startingPos":{
+            "x":2,
+            "y":6
+        },
+        "emojisUsed":[
+            "🟧",
+            "⬛"
+        ],
+        "collisions":[
+            "a"
+        ],
+        "data":[
+            "a a a a a a a a a a a a a a a a ",
+            "a b b b b b b b b b b b b b b a ",
+            "a b b b b b a b b b b b b b b a ",
+            "a b b b b b b b b b b b b b b a ",
+            "a b b b b b b b b b b b b b b a ",
+            "a b b b b b a b b b b b b b b a ",
+            "a b b b b b b b b b b b b b b a ",
+            "a a a a a a a a a a a a a a a a "
+        ],
+        "enemies":[
+            {
+                "X":14,
+                "Y":2,
+                "emoji":"😈",
+                "health": 5,
+                "maxHealth": 5
+            },
+            {
+                "X":14,
+                "Y":4,
+                "emoji":"💀",
+                "health": 8,
+                "maxHealth": 8
+            }
+        ],
+        "rewards":{
+            "money": 100,
+            "xp": 1000,
+            "items": []
+        }
+    },
+    {
+        "dungeonTier":1,
+        "floor":1,
+        "title":"Small dungeon - floor 2",
+        "size":{
+            "x":16,
+            "y":8
+        },
+        "startingPos":{
+            "x":2,
+            "y":4
+        },
+        "emojisUsed":[
+            "🟧",
+            "⬛"
+        ],
+        "collisions":[
+            "a"
+        ],
+        "data":[
+            "a a a a a a a a a a a a a a a a ",
+            "a b b b b b b b b b b b b b b a ",
+            "a b a a b b b b b b b b b b a a ",
+            "a b b b b b a b b b b b b a a a ",
+            "a b b b b b a b b b b b b a a a ",
+            "a b a a b b b b b b b b b b a a ",
+            "a b b b b b b b b b b b b b b a ",
+            "a a a a a a a a a a a a a a a a "
+        ],
+        "enemies":[
+            {
+                "X":10,
+                "Y":2,
+                "emoji":"😈",
+                "health": 10,
+                "maxHealth": 10
+            },
+            {
+                "X":10,
+                "Y":5,
+                "emoji":"😈",
+                "health": 10,
+                "maxHealth": 10
+            }
+        ],
+        "rewards":{
+            "money": 200,
+            "xp": 2000,
+            "items": []
+        }
+    },
+    {
+        "dungeonTier":1,
+        "floor":2,
+        "title":"Small dungeon - last floor",
+        "size":{
+            "x":16,
+            "y":10
+        },
+        "startingPos":{
+            "x":2,
+            "y":2
+        },
+        "emojisUsed":[
+            "🟧",
+            "⬛",
+            "💎"
+        ],
+        "collisions":[
+            "a"
+        ],
+        "data":[
+            "a a a a a a a a a a a a a a a a ",
+            "a b b a b b b b b b a a b b b a ",
+            "a b b a b b b b b b a a b b b a ",
+            "a b b a b b b a b b b b b b b a ",
+            "a b b a b b b a b b b b b b b a ",
+            "a b b a b b b a b b b b b b b a ",
+            "a b b b b b b a b b b b b b b a ",
+            "a b b b b b b a b b a a a b b a ",
+            "a b b b b b b a b b a c a b b a ",
+            "a a a a a a a a a a a a a a a a "
+        ],
+        "enemies":[
+            {
+                "X":4,
+                "Y":5,
+                "emoji":"👻",
+                "health": 25,
+                "maxHealth": 25
+            },
+            {
+                "X":6,
+                "Y":5,
+                "emoji":"👻",
+                "health": 25,
+                "maxHealth": 25
+            },
+            {
+                "X":11,
+                "Y":5,
+                "emoji":"😈",
+                "health": 50,
+                "maxHealth": 50
+            },
+            {
+                "X":14,
+                "Y":1,
+                "emoji":"👽",
+                "health": 100,
+                "maxHealth": 100
+            }
+        ],
+        "rewards":{
+            "money": 200,
+            "xp": 2000,
+            "items": ["ironArmor"]
+        }
+    }
+]
