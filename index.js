@@ -22,23 +22,7 @@ var bug = new db.table('bugReports')
 var prefix = important.prefix
 
 
-/*const creator = new slash.SlashCreator({
-    applicationID:"no",
-    publicKey:"fuck you",
-    token:important.token,
-})*/
 bot.login(important.token)
-/*module.exports.cLangJSON = lang[0];
-module.exports.databases = {
-    db: db,
-    serverMaps: serverMaps,
-    dungeons: dungeons,
-    bug: bug
-}
-creator.withServer(new slash.GatewayServer((handler) => bot.ws.on('INTERACTION_CREATE', handler)))
-creator.registerCommand(path.join(__dirname, "slash-commands-shite.js")).syncCommandsIn('744310454519726160')
-
-module.exports.creator = creator;*/
 module.exports.prefix = prefix;
 module.exports.bot = bot;
 
